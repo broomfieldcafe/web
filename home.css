@@ -4,8 +4,8 @@
 }
 
 .u-section-1 .u-layout-wrap-1 {
-  margin-top: 105px;
-  margin-bottom: 0;
+  width: 1388px;
+  margin: 104px 0 0;
 }
 
 .u-section-1 .u-image-1 {
@@ -28,8 +28,9 @@
 
 .u-section-1 .u-group-elements-1 {
   width: 443px;
-  min-height: 485px;
-  margin: 105px auto 0;
+  min-height: 484px;
+  height: auto;
+  margin: 104px auto 0 55px;
 }
 
 .u-section-1 .u-image-2 {
@@ -43,7 +44,7 @@
 }
 
 .u-section-1 .u-text-2 {
-  margin: 13px 0 0;
+  margin: 15px 0 0;
 }
 
 .u-section-1 .u-btn-1 {
@@ -54,7 +55,7 @@
   text-align: center;
   font-weight: 700;
   border-style: solid;
-  margin: 27px auto 0;
+  margin: 25px auto 0;
   padding: 20px 47px 20px 46px;
 }
 
@@ -63,18 +64,22 @@
     min-height: 675px;
   }
 
+  .u-section-1 .u-layout-wrap-1 {
+    width: 940px;
+  }
+
   .u-section-1 .u-image-1 {
-    min-height: 571px;
+    min-height: 469px;
   }
 
   .u-section-1 .u-layout-cell-2 {
-    min-height: 582px;
+    min-height: 469px;
   }
 
   .u-section-1 .u-group-elements-1 {
     width: 376px;
-    height: auto;
     margin-top: 0;
+    margin-left: 0;
   }
 }
 
@@ -83,9 +88,13 @@
     min-height: 541px;
   }
 
+  .u-section-1 .u-layout-wrap-1 {
+    width: 720px;
+  }
+
   .u-section-1 .u-image-1 {
     order: 1;
-    min-height: 437px;
+    min-height: 359px;
   }
 
   .u-section-1 .u-layout-cell-2 {
@@ -107,8 +116,12 @@
     min-height: 750px;
   }
 
+  .u-section-1 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
   .u-section-1 .u-image-1 {
-    min-height: 546px;
+    min-height: 449px;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -128,14 +141,11 @@
 
   .u-section-1 .u-layout-wrap-1 {
     margin-top: 34px;
+    width: 340px;
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 344px;
-  }
-
-  .u-section-1 .u-layout-cell-2 {
-    min-height: 578px;
+    min-height: 283px;
   }
 
   .u-section-1 .u-container-layout-2 {
@@ -311,7 +321,7 @@
 .u-section-3 .u-image-1 {
   height: 209px;
   width: 209px;
-  background-image: url("https://assets.nicepagecdn.com/bc38262d/5739532/images/b8ccb03d4a9f1081f16a32d0aebf4bfdd6d364c5ab81384456579ad4aff226a6faa868be6bc954b14e68469749e258f719c7978914e713664d19dd_1280.jpg");
+  background-image: url("https://assets.nicepagecdn.com/bc38262d/5739532/images/a790a79130903855cf5d4074657bf910c3c136ea442ac80c40fef0a3bc4bf6eba85f4e22bafe23eb648e02daa784cba7ac822f16a44846b64603e4_1280.jpg");
   background-position: 50% 50%;
   margin: 17px auto 0;
 }
@@ -348,7 +358,7 @@
 .u-section-3 .u-image-2 {
   height: 209px;
   width: 209px;
-  background-image: url("https://assets.nicepagecdn.com/d2cc3eaa/3284316/images/fggggg.jpg");
+  background-image: url("https://assets.nicepagecdn.com/bc38262d/5739532/images/719b760966da2e9c6433d35e1d5be4b9c26842a7776b0e4b79674d4d4f9192408ffa1b86dec3a8ecb39d6459b9891a57932c178f599be54ce3cdea_1280.jpg");
   background-position: 50% 50%;
   margin: 17px auto 0;
 }
@@ -385,7 +395,7 @@
 .u-section-3 .u-image-3 {
   height: 209px;
   width: 209px;
-  background-image: url("https://assets.nicepagecdn.com/bc38262d/5739532/images/6bf239de9c4e62f169ee39cb9a4be425ff61124b5190c1504dc383a3b0d22daeefa67d902f8bb6d89cdd074eb500a889c3cbc9b2c8c2d1e41c21a8_1280.jpg");
+  background-image: url("https://assets.nicepagecdn.com/bc38262d/5739532/images/96a1c72da4052921c0279992642bceb2259f8ae0a62e084431465beb7893df3975d96d2b429c9f7d4603382cbdf5b0e7bb76e90d7fb5164086caa0_1280.jpg");
   background-position: 50% 50%;
   margin: 17px auto 0;
 }
@@ -422,7 +432,7 @@
 .u-section-3 .u-image-4 {
   height: 209px;
   width: 209px;
-  background-image: url("https://assets.nicepagecdn.com/bc38262d/5739532/images/7b69e12b9af94a8ac641c76dadc9d65b7ebd384586b9c273d4dec129f0fe0ae6fd99d5a53a30708fb8737e4bfbe712aa625df517277603f451c799_1280.jpg");
+  background-image: url("https://assets.nicepagecdn.com/bc38262d/5739532/images/ff27d1ee7fa003146616b0069e307c46c4a0ab57635ae5302b9731ab7f8c9cfafa8fb62b6a7128ec91c4ccf9741403a965063f40df15f144b71432_1280.jpg");
   background-position: 50% 50%;
   margin: 17px auto 0;
 }
@@ -459,7 +469,7 @@
 .u-section-3 .u-image-5 {
   height: 209px;
   width: 209px;
-  background-image: url("https://assets.nicepagecdn.com/bc38262d/5739532/images/68e8b110e24b6b50596759fa6ce3de48e02e0db680cdc94a0fc91d169ec8e922b7dab3059947e4d9a52b0e08f6ba30f5978d5c589b16faebcd18fa_1280.jpg");
+  background-image: url("https://assets.nicepagecdn.com/bc38262d/5739532/images/ac11fc7e0e8c5247c9747fa0b16972ffbf5f635b0573e0001f7b9f983a3a2dba595300d9e5837ad34f77550821f8a53c26e0aec02b66f52b1753dd_1280.jpg");
   background-position: 50% 50%;
   margin: 17px auto 0;
 }
@@ -496,7 +506,7 @@
 .u-section-3 .u-image-6 {
   height: 209px;
   width: 209px;
-  background-image: url("https://assets.nicepagecdn.com/d2cc3eaa/3284316/images/fggggg.jpg");
+  background-image: url("https://assets.nicepagecdn.com/bc38262d/5739532/images/c4da16953aea78c07431e4296bd7a4bb94685b1c5f6e4e4c4bd23f6494c2e381d6108fe4746a840f99321d86dd5b3f38ad0bcbef0005fd3ae1d32f_1280.jpg");
   background-position: 50% 50%;
   margin: 17px auto 0;
 }
@@ -1072,13 +1082,13 @@
 }
 
 .u-section-4 .u-container-layout-2 {
-  padding: 30px;
+  padding: 30px 23px;
 }
 
 .u-section-4 .u-icon-2 {
   height: 80px;
   width: 80px;
-  margin: 0 auto;
+  margin: 36px auto 0;
   padding: 20px;
 }
 
@@ -1087,23 +1097,14 @@
   font-size: 1.25rem;
   letter-spacing: 2px;
   text-transform: uppercase;
-  margin: 30px -1px 0;
+  margin: 30px 6px 0;
 }
 
 .u-section-4 .u-btn-2 {
   border-style: none;
   background-image: none;
   text-decoration: underline !important;
-  align-self: center;
-  margin: 20px auto 0;
-  padding: 0;
-}
-
-.u-section-4 .u-btn-3 {
-  border-style: none;
-  background-image: none;
-  text-decoration: underline !important;
-  margin: 0 auto;
+  margin: 20px 0 0;
   padding: 0;
 }
 
@@ -1283,6 +1284,11 @@
 
   .u-section-4 .u-text-2 {
     width: 540px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
   }
 
   .u-section-4 .u-container-layout-3 {
