@@ -1,5 +1,6 @@
  .u-section-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('https://assets.nicepagecdn.com/bc38262d/5739532/images/195e1bcef285dfd663a94460f44506d7ac50c08218f8ff52294e5aa81ce4c97242d26826a840950514b6be6fffc8e57ca2ffbf5cb5a23b83bf154d_1280.jpg');
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -30,10 +31,6 @@
 }
 
 @media (max-width: 1199px) {
-   .u-section-1 {
-    background-position: 50% 50%;
-  }
-
   .u-section-1 .u-sheet-1 {
     min-height: 715px;
   }
@@ -423,6 +420,7 @@
 
  .u-section-4-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('https://assets.nicepagecdn.com/bc38262d/5739532/images/c05f63253d9edfdc08f5ce2141b88b89124e3c37db92f55f34c2c834a7e3b7744b123519a69dc07a18ea1da4785a5923c78e6886ade3c91b823b25_1280.jpg');
+  background-position: 50% 50%;
 }
 
 .u-section-4-1 .u-sheet-1 {
@@ -442,10 +440,6 @@
 }
 
 @media (max-width: 1199px) {
-   .u-section-4-1 {
-    background-position: 50% 50%;
-  }
-
   .u-section-4-1 .u-sheet-1 {
     min-height: 660px;
   }
@@ -475,6 +469,7 @@
 
  .u-section-4-2 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('https://images03.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/c44a1e21763c56419018e398/restaurant-love-romantic-dinner.jpg');
+  background-position: 50% 50%;
 }
 
 .u-section-4-2 .u-sheet-1 {
@@ -494,10 +489,6 @@
 }
 
 @media (max-width: 1199px) {
-   .u-section-4-2 {
-    background-position: 50% 50%;
-  }
-
   .u-section-4-2 .u-sheet-1 {
     min-height: 660px;
   }
