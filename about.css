@@ -1,6 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('https://assets.nicepagecdn.com/bc38262d/5739532/images/195e1bcef285dfd663a94460f44506d7ac50c08218f8ff52294e5aa81ce4c97242d26826a840950514b6be6fffc8e57ca2ffbf5cb5a23b83bf154d_1280.jpg');
-  background-position: 50% 50%;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('./public/195e1bcef285dfd663a94460f44506d7ac50c08218f8ff52294e5aa81ce4c97242d26826a840950514b6be6fffc8e57ca2ffbf5cb5a23b83bf154d_1280.jpg');
 }
 
 .u-section-1 .u-sheet-1 {
@@ -31,6 +30,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-1 {
+    background-position: 50% 50%;
+  }
+
   .u-section-1 .u-sheet-1 {
     min-height: 715px;
   }
@@ -154,7 +157,7 @@
 
 .u-section-3 .u-image-1 {
   min-height: 405px;
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('https://assets.nicepagecdn.com/bc38262d/5739532/images/c05f63253d9edfdc08f5ce2141b88b89124e3c37db92f55f34c2c834a7e3b7744b123519a69dc07a18ea1da4785a5923c78e6886ade3c91b823b25_1280.jpg');
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('./public/c05f63253d9edfdc08f5ce2141b88b89124e3c37db92f55f34c2c834a7e3b7744b123519a69dc07a18ea1da4785a5923c78e6886ade3c91b823b25_1280.jpg');
   background-position: 50% 50%;
 }
 
@@ -191,7 +194,7 @@
 
 .u-section-3 .u-image-2 {
   min-height: 405px;
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('https://assets.nicepagecdn.com/bc38262d/5739532/images/c7deaf00677df00c4054421669e8834c262c3291d10f597e12ed6154ba776fba2745b5cc735f1021f2e5d42717430a6b6a2fbabaa4b7baf02a8435_1280.jpg');
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('./public/c7deaf00677df00c4054421669e8834c262c3291d10f597e12ed6154ba776fba2745b5cc735f1021f2e5d42717430a6b6a2fbabaa4b7baf02a8435_1280.jpg');
   background-position: 50% 50%;
 }
 
@@ -227,7 +230,7 @@
 
 .u-section-3 .u-image-3 {
   min-height: 405px;
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('https://assets.nicepagecdn.com/bc38262d/5739532/images/1d2280d76f95e4160566bbdfcbf5e6f58d4f2d81e83197b94631df8ce4361a317e8009a16e627df40ae8994139c7023c8f4d0c58c13a3825e5628d_1280.jpg');
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('./public/1d2280d76f95e4160566bbdfcbf5e6f58d4f2d81e83197b94631df8ce4361a317e8009a16e627df40ae8994139c7023c8f4d0c58c13a3825e5628d_1280.jpg');
   background-position: 50% 50%;
 }
 
@@ -419,8 +422,7 @@
 }
 
  .u-section-4-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('https://assets.nicepagecdn.com/bc38262d/5739532/images/c05f63253d9edfdc08f5ce2141b88b89124e3c37db92f55f34c2c834a7e3b7744b123519a69dc07a18ea1da4785a5923c78e6886ade3c91b823b25_1280.jpg');
-  background-position: 50% 50%;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('./public/c05f63253d9edfdc08f5ce2141b88b89124e3c37db92f55f34c2c834a7e3b7744b123519a69dc07a18ea1da4785a5923c78e6886ade3c91b823b25_1280.jpg');
 }
 
 .u-section-4-1 .u-sheet-1 {
@@ -440,6 +442,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-4-1 {
+    background-position: 50% 50%;
+  }
+
   .u-section-4-1 .u-sheet-1 {
     min-height: 660px;
   }
@@ -468,8 +474,7 @@
 }
 
  .u-section-4-2 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('https://images03.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/c44a1e21763c56419018e398/restaurant-love-romantic-dinner.jpg');
-  background-position: 50% 50%;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('./public/restaurant-love-romantic-dinner.jpg');
 }
 
 .u-section-4-2 .u-sheet-1 {
@@ -489,6 +494,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-4-2 {
+    background-position: 50% 50%;
+  }
+
   .u-section-4-2 .u-sheet-1 {
     min-height: 660px;
   }
@@ -524,7 +533,7 @@
 
 .u-section-5 .u-image-1 {
   min-height: 707px;
-  background-image: url("https://images03.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/c44a1e21763c56419018e398/restaurant-love-romantic-dinner.jpg");
+  background-image: url("./public/restaurant-love-romantic-dinner.jpg");
   background-position: 50% 50%;
 }
 
@@ -534,7 +543,7 @@
 
 .u-section-5 .u-image-2 {
   min-height: 351px;
-  background-image: url("https://images03.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/c0365602381358fd8a0cc939/pexels-photo-5491337.jpeg");
+  background-image: url("./public/pexels-photo-5491337.jpeg");
   background-position: 50% 63.78%;
 }
 
@@ -544,7 +553,7 @@
 
 .u-section-5 .u-image-3 {
   min-height: 356px;
-  background-image: url("https://images03.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/1bbaf22427455a638f2bfb81/pexels-photo-2762942.jpeg");
+  background-image: url("./public/pexels-photo-2762942.jpeg");
   background-position: 50% 50%;
 }
 
@@ -554,7 +563,7 @@
 
 .u-section-5 .u-image-4 {
   min-height: 356px;
-  background-image: url("https://images03.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/62c4998046a15404b6087759/pexels-marta-dzedyshko-2067396.jpg");
+  background-image: url("./public/pexels-marta-dzedyshko-2067396.jpg");
   background-position: 50% 50%;
 }
 

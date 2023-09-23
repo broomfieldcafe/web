@@ -10,7 +10,7 @@
 
 .u-section-1 .u-image-1 {
   min-height: 692px;
-  background-image: url("https://assets.nicepagecdn.com/bc38262d/5739532/images/ea11ea9cd7289168a0963cfff8d41a42ccc1f0c19b815d0cb47f7eaed074640855d2958dd2f3d932a98ff2759fd9ea6b9cdef62bcaf42e9624f61a_1280.jpg");
+  background-image: url("./public/ea11ea9cd7289168a0963cfff8d41a42ccc1f0c19b815d0cb47f7eaed074640855d2958dd2f3d932a98ff2759fd9ea6b9cdef62bcaf42e9624f61a_1280.jpg");
   background-position: 50% 50%;
 }
 
@@ -171,7 +171,7 @@
     margin-top: -25px;
   }
 } .u-section-2 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://assets.nicepagecdn.com/bc38262d/5739532/images/1d2280d76f95e4160566bbdfcbf5e6f58d4f2d81e83197b94631df8ce4361a317e8009a16e627df40ae8994139c7023c8f4d0c58c13a3825e5628d_1280.jpg');
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('./public/1d2280d76f95e4160566bbdfcbf5e6f58d4f2d81e83197b94631df8ce4361a317e8009a16e627df40ae8994139c7023c8f4d0c58c13a3825e5628d_1280.jpg');
   background-position: 50% 50%;
 }
 
@@ -288,7 +288,7 @@
     width: auto;
   }
 } .u-section-3 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://assets.nicepagecdn.com/bc38262d/5739532/images/195e1bcef285dfd663a94460f44506d7ac50c08218f8ff52294e5aa81ce4c97242d26826a840950514b6be6fffc8e57ca2ffbf5cb5a23b83bf154d_1280.jpg');
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('./public/195e1bcef285dfd663a94460f44506d7ac50c08218f8ff52294e5aa81ce4c97242d26826a840950514b6be6fffc8e57ca2ffbf5cb5a23b83bf154d_1280.jpg');
   background-position: 50% 50%;
 }
 
@@ -331,7 +331,7 @@
 .u-section-3 .u-image-1 {
   height: 209px;
   width: 209px;
-  background-image: url("https://assets.nicepagecdn.com/bc38262d/5739532/images/a790a79130903855cf5d4074657bf910c3c136ea442ac80c40fef0a3bc4bf6eba85f4e22bafe23eb648e02daa784cba7ac822f16a44846b64603e4_1280.jpg");
+  background-image: url("./public/a790a79130903855cf5d4074657bf910c3c136ea442ac80c40fef0a3bc4bf6eba85f4e22bafe23eb648e02daa784cba7ac822f16a44846b64603e4_1280.jpg");
   background-position: 50% 50%;
   margin: 17px auto 0;
 }
@@ -368,7 +368,7 @@
 .u-section-3 .u-image-2 {
   height: 209px;
   width: 209px;
-  background-image: url("https://assets.nicepagecdn.com/bc38262d/5739532/images/719b760966da2e9c6433d35e1d5be4b9c26842a7776b0e4b79674d4d4f9192408ffa1b86dec3a8ecb39d6459b9891a57932c178f599be54ce3cdea_1280.jpg");
+  background-image: url("./public/719b760966da2e9c6433d35e1d5be4b9c26842a7776b0e4b79674d4d4f9192408ffa1b86dec3a8ecb39d6459b9891a57932c178f599be54ce3cdea_1280.jpg");
   background-position: 50% 50%;
   margin: 17px auto 0;
 }
@@ -405,7 +405,7 @@
 .u-section-3 .u-image-3 {
   height: 209px;
   width: 209px;
-  background-image: url("https://assets.nicepagecdn.com/bc38262d/5739532/images/96a1c72da4052921c0279992642bceb2259f8ae0a62e084431465beb7893df3975d96d2b429c9f7d4603382cbdf5b0e7bb76e90d7fb5164086caa0_1280.jpg");
+  background-image: url("./public/96a1c72da4052921c0279992642bceb2259f8ae0a62e084431465beb7893df3975d96d2b429c9f7d4603382cbdf5b0e7bb76e90d7fb5164086caa0_1280.jpg");
   background-position: 50% 50%;
   margin: 17px auto 0;
 }
@@ -442,7 +442,7 @@
 .u-section-3 .u-image-4 {
   height: 209px;
   width: 209px;
-  background-image: url("https://assets.nicepagecdn.com/bc38262d/5739532/images/ff27d1ee7fa003146616b0069e307c46c4a0ab57635ae5302b9731ab7f8c9cfafa8fb62b6a7128ec91c4ccf9741403a965063f40df15f144b71432_1280.jpg");
+  background-image: url("./public/ff27d1ee7fa003146616b0069e307c46c4a0ab57635ae5302b9731ab7f8c9cfafa8fb62b6a7128ec91c4ccf9741403a965063f40df15f144b71432_1280.jpg");
   background-position: 50% 50%;
   margin: 17px auto 0;
 }
@@ -479,7 +479,7 @@
 .u-section-3 .u-image-5 {
   height: 209px;
   width: 209px;
-  background-image: url("https://assets.nicepagecdn.com/bc38262d/5739532/images/ac11fc7e0e8c5247c9747fa0b16972ffbf5f635b0573e0001f7b9f983a3a2dba595300d9e5837ad34f77550821f8a53c26e0aec02b66f52b1753dd_1280.jpg");
+  background-image: url("./public/ac11fc7e0e8c5247c9747fa0b16972ffbf5f635b0573e0001f7b9f983a3a2dba595300d9e5837ad34f77550821f8a53c26e0aec02b66f52b1753dd_1280.jpg");
   background-position: 50% 50%;
   margin: 17px auto 0;
 }
@@ -516,7 +516,7 @@
 .u-section-3 .u-image-6 {
   height: 209px;
   width: 209px;
-  background-image: url("https://assets.nicepagecdn.com/bc38262d/5739532/images/c4da16953aea78c07431e4296bd7a4bb94685b1c5f6e4e4c4bd23f6494c2e381d6108fe4746a840f99321d86dd5b3f38ad0bcbef0005fd3ae1d32f_1280.jpg");
+  background-image: url("./public/c4da16953aea78c07431e4296bd7a4bb94685b1c5f6e4e4c4bd23f6494c2e381d6108fe4746a840f99321d86dd5b3f38ad0bcbef0005fd3ae1d32f_1280.jpg");
   background-position: 50% 50%;
   margin: 17px auto 0;
 }
